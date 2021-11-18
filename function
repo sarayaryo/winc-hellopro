@@ -1,1 +1,2 @@
-def functoin(x)
+def function(x)
+    x
